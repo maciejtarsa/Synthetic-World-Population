@@ -3,6 +3,7 @@ Exploration of different methods for sampling from distributions using the examp
 
 ### Data used
 World Bank country population 2019 (https://data.worldbank.org/indicator/SP.POP.TOTL)
+United National World Population Prospects (https://population.un.org/wpp/Download/Standard/CSV/)
 
 ## Methods explored
 
