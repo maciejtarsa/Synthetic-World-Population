@@ -1,4 +1,4 @@
-# Synthetic-World-Population
+# Synthetic World Populations
 Exploration of different methods for sampling from distributions using the example of world population. In this exploratory project, I create synthethic population for countries of the world and compare the numbers generated to real distributions. The purpose is to evaluate the usefuleness of different methods for similar tasks. Aspects such as accuracy of the result and speed of execution are considered.
 
 ### Data used
