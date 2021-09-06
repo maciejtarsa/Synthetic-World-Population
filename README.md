@@ -14,7 +14,7 @@ This methods allows to pick a random item from a list based on frequency distrib
 
 ## Conclusions
 Both methods were capable of generating a realistic population totals given the frequency distributions. For both methods, I generated 1 million individuals and compared the frequency distributions of the synthetic population to the real population.<br><br>
-However, the methods had different speeds of execution. Walker Alias Method took 0.3366 minutes to execute, while Pseudorandom Number Generation took 0.0256 minutes to execute and was therefore considerably faster.<br><br>
+However, the methods had different speeds of execution. Walker Alias Method took 0.3366 minutes to execute. Pseudorandom Number Generation took 0.0256 minutes to execute and was therefore considerably faster - for generation of 1 million individuals it was over 13 times faster.<br><br>
 Furthermore, Pseudorandom Number Generation is already implemented as part of `random` package in Python and therefore is much easier to use - requiring one external library and just one line of code, while Walker Alias Methods implementation required 44 lines of code. Given that both methods produced similar results, I therefore conclude that the Pseudorandom Number Generation is more suitable for this task.
 ## Example
 ```Python
